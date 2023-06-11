@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+dist/
+
+# Environment files
+.env
+
+# Build output
+build/
+dist/
+out/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Mac files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Jest coverage directory
+coverage/
+
+# NPM package lock
+package-lock.json
